@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Your Mom",
+    "longName": "Get Shrek'd",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Get Shrek'd",
+    "uuid": "4d798af1-5436-4dcd-ac3e-f8ad9c52e250",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
